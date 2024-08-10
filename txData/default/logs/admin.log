@@ -1,0 +1,32 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 8/10/2024, 2:28:56 PM
+================================================================
+[14:29:43][DAMIGHTY] created admins file
+[14:30:23][DAMIGHTY] Changing global settings via setup stepper and started Deployer.
+[14:30:33][DAMIGHTY] Setting recipe.
+[14:31:49][DAMIGHTY] Running recipe.
+[14:47:26][DAMIGHTY] Completed and committed server deploy.
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 8/10/2024, 3:24:13 PM
+================================================================
+[15:24:44][DAMIGHTY] logged in from 127.0.0.1 via password
+[15:24:52][DAMIGHTY] executed "convertinventory qb"
+[15:25:52][DAMIGHTY] executed "RESTART SERVER"
+[15:26:58][DAMIGHTY] executed "convertinventory qb"
+[15:33:14][DAMIGHTY] executed "RESTART SERVER"
+[15:34:17][DAMIGHTY] executed "convertinventory qb"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 8/10/2024, 3:38:49 PM
+================================================================
+[15:39:12][DAMIGHTY] logged in from 127.0.0.1 via password
+[15:39:22][DAMIGHTY] executed "convertinventory qb"
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 8/10/2024, 4:18:28 PM
+================================================================
+[16:19:05][DAMIGHTY] logged in from 127.0.0.1 via password
+[16:21:51][DAMIGHTY] logged in via in-game ui
+[16:29:44][DAMIGHTY] executed "RESTART SERVER"
