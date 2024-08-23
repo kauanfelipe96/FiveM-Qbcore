@@ -1,0 +1,37 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 8/14/2024, 12:50:46 AM
+================================================================
+
+================================================================
+======== Log Rotated - 8/14/2024, 12:50:46 AM                   
+================================================================
+[01:01:09][DAMIGHTY] logged in via in-game ui
+[01:05:40][DAMIGHTY] logged in from 127.0.0.1 via password
+[01:27:45][DAMIGHTY] logged in via in-game ui
+[02:11:56][DAMIGHTY] executed "RESTART SERVER"
+[02:14:13][DAMIGHTY] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 8/14/2024, 11:06:46 AM
+================================================================
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 8/14/2024, 2:33:30 PM
+================================================================
+[14:39:58][DAMIGHTY] logged in from 127.0.0.1 via password
+[14:40:05][DAMIGHTY] executed "RESTART SERVER"
+[14:52:45][DAMIGHTY] executed "RESTART SERVER"
+[15:11:13][DAMIGHTY] executed "RESTART SERVER"
+[15:25:20][DAMIGHTY] executed "RESTART SERVER"
+[15:38:57][DAMIGHTY] executed "RESTART SERVER"
+[15:42:14][DAMIGHTY] logged in via in-game ui
+[16:02:43][DAMIGHTY] executed "RESTART SERVER"
+[16:05:48][DAMIGHTY] logged in via in-game ui
+[16:12:54][DAMIGHTY] executed "ensure "qb-printer""
+[16:17:49][DAMIGHTY] executed "ensure "ox_lib""
+[16:19:06][DAMIGHTY] logged in via in-game ui
+[16:28:35][DAMIGHTY] executed "RESTART SERVER"
+[16:30:35][DAMIGHTY] logged in via in-game ui
+[16:40:58][DAMIGHTY] executed "ensure "qb-printer""
+[17:27:07][DAMIGHTY] logged in via in-game ui

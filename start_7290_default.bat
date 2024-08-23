@@ -1,3 +1,3 @@
 @echo off
-"C:/Users/Kauan/OneDrive/Documentos/FiveM-Qbcore/server/FXServer.exe" +set serverProfile "default"
+"C:/Users/Kauan/OneDrive/Documentos/fivem-qbcore/server/FXServer.exe" +set serverProfile "default"
 pause

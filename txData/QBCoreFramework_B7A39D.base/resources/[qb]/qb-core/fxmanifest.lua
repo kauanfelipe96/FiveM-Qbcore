@@ -48,3 +48,4 @@ files {
 }
 
 dependency 'oxmysql'
+export 'GetCoreObject'
