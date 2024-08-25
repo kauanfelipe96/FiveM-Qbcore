@@ -1,8 +1,11 @@
 fx_version 'cerulean'
 game 'gta5'
 
-description 'QB-Printer'
-version '1.2.0'
+name 'Passport'
+description 'Custom passport for RPRP'
+author "DAMIGHTY"
+description "React + Vite, TS"
+version '1.0.0'
 
 ui_page 'ui/dist/index.html'
 

@@ -1,0 +1,61 @@
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 8/23/2024, 3:24:15 PM
+================================================================
+
+================================================================
+======== Log Rotated - 8/23/2024, 3:24:15 PM                    
+================================================================
+[15:26:12][DAMIGHTY] logged in via in-game ui
+[15:33:31][DAMIGHTY] logged in from 127.0.0.1 via password
+[15:34:00][DAMIGHTY] executed "stop "compass""
+[15:35:02][DAMIGHTY] executed "RESTART SERVER"
+[15:45:57][DAMIGHTY] logged in via in-game ui
+[15:49:40][DAMIGHTY] executed "stop "compass""
+[15:50:40][DAMIGHTY] executed "ensure "compass""
+[15:59:22][DAMIGHTY] executed "ensure "compass""
+[15:59:50][DAMIGHTY] executed "ensure "compass""
+[16:03:49][DAMIGHTY] executed "ensure "compass""
+[16:05:25][DAMIGHTY] executed "ensure "compass""
+[16:09:34][DAMIGHTY] executed "ensure "compass""
+[16:09:44][DAMIGHTY] executed "stop "compass""
+[16:13:15][DAMIGHTY] executed "RESTART SERVER"
+[16:17:30][DAMIGHTY] logged in via in-game ui
+[16:21:50][DAMIGHTY] executed "stop "compass""
+[16:49:28][DAMIGHTY] executed "RESTART SERVER"
+[16:50:33][DAMIGHTY] logged in via in-game ui
+[16:56:30][DAMIGHTY] executed "stop "compass""
+[17:08:48][DAMIGHTY] executed "RESTART SERVER"
+[17:09:58][DAMIGHTY] logged in via in-game ui
+[17:29:55][DAMIGHTY] executed "stop "compass""
+[17:30:22][DAMIGHTY] executed "RESTART SERVER"
+[17:32:06][DAMIGHTY] logged in via in-game ui
+[17:37:10][DAMIGHTY] executed "RESTART SERVER"
+[17:39:24][DAMIGHTY] logged in via in-game ui
+[17:47:01][DAMIGHTY] executed "RESTART SERVER"
+[17:48:28][DAMIGHTY] logged in via in-game ui
+[17:50:22][DAMIGHTY] executed "stop "compass""
+[17:53:14][DAMIGHTY] executed "ensure "compass""
+[18:18:59][DAMIGHTY] executed "RESTART SERVER"
+[18:20:07][DAMIGHTY] logged in via in-game ui
+[18:40:49][DAMIGHTY] executed "stop "compass""
+[18:52:45][DAMIGHTY] executed "ensure "compass""
+[18:53:44][DAMIGHTY] executed "RESTART SERVER"
+[18:54:38][DAMIGHTY] logged in via in-game ui
+[19:06:51][DAMIGHTY] executed "ensure "compass""
+[19:13:34][DAMIGHTY] executed "RESTART SERVER"
+[19:21:13][DAMIGHTY] executed "RESTART SERVER"
+[19:22:10][DAMIGHTY] logged in via in-game ui
+
+================================================================
+======== txAdmin v6.0.2 atop fxserver 7290 Starting - 8/23/2024, 9:46:32 PM
+================================================================
+[21:47:36][DAMIGHTY] logged in via in-game ui
+[22:09:52][DAMIGHTY] logged in from 127.0.0.1 via password
+[22:09:58][DAMIGHTY] executed "ensure "compass""
+[22:10:47][DAMIGHTY] executed "RESTART SERVER"
+[22:11:47][DAMIGHTY] logged in via in-game ui
+[22:14:06][DAMIGHTY] executed "RESTART SERVER"
+[22:15:03][DAMIGHTY] logged in via in-game ui
+[22:30:35][DAMIGHTY] executed "RESTART SERVER"
+[22:31:34][DAMIGHTY] logged in via in-game ui
